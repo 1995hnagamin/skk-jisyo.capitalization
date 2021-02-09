@@ -1,12 +1,43 @@
 ;; okuri-ari entries.
 ;; okuri-nasi entries.
+actionscript /ActionScript/
+aftereffects /After Effects/
+air /AIR/
 airmac /AirMac/
+amstex /AMS-TeX/
+arabtex /ArabTeX/
+circuitikz /CircuiTikZ/
+coldfusion /ColdFusion/
+context /ConTeXt/
+ctan /CTAN/
+dreamweaver /Dreamweaver/
+farsitex /FarsiTeX/
+framemaker /FrameMaker/
+freehand /FreeHand/
 github /GitHub/
+golive /GoLive/
 homepod /HomePod/
 imac /iMac/
+indesign /InDesign/
 ipad /iPad/
 iphone /iPhone/
 ipod /iPod/
+latex /LaTeX/
+livecycle /LiveCycle/
+luatex /LuaTeX/
 macos /macOS/
+macromedia /Macromedia/
+mactex /MacTeX/
 magsafe /MagSafe/
+miktex /MiKTeX/
+musixtex /MusiXTeX/
+pagemaker /PageMaker/
+pdftex /pdfTeX/
+photoshop /Photoshop/
+postscript /PostScript/
+texlive /TeX Live/
+tikz /TikZ/
+tugboat /TUGboat/
 webmoney /WebMoney/
+xetex /XeTeX/
+xymtex /XyMTeX/

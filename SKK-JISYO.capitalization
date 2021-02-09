@@ -11,15 +11,19 @@ coldfusion /ColdFusion/
 context /ConTeXt/
 ctan /CTAN/
 dreamweaver /Dreamweaver/
+excel /Excel/ExCeL; Exhibition Centre London/
 farsitex /FarsiTeX/
 framemaker /FrameMaker/
+freebsd /FreeBSD/
 freehand /FreeHand/
 github /GitHub/
 golive /GoLive/
 homepod /HomePod/
 imac /iMac/
 indesign /InDesign/
+ios /iOS/
 ipad /iPad/
+ipados /iPadOS/
 iphone /iPhone/
 ipod /iPod/
 latex /LaTeX/
@@ -29,15 +33,24 @@ macos /macOS/
 macromedia /Macromedia/
 mactex /MacTeX/
 magsafe /MagSafe/
+microsoft /Microsoft/
 miktex /MiKTeX/
 musixtex /MusiXTeX/
+ocaml /OCaml/
+onedrive /OneDrive/
+outlook /Outlook/
 pagemaker /PageMaker/
 pdftex /pdfTeX/
 photoshop /Photoshop/
+playstation /PlayStation/
 postscript /PostScript/
+powerpoint /PowerPoint/
+tex /TeX/
 texlive /TeX Live/
 tikz /TikZ/
 tugboat /TUGboat/
+tvos /tvOS/
+watchos /watchOS/
 webmoney /WebMoney/
 xetex /XeTeX/
 xymtex /XyMTeX/

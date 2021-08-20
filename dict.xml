@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='EUC-JP'?>
+<jisyo>
+  <ca>
+    <word>ActionScript</word>
+  </ca>
+
+  <ca>
+    <word>ActivityPub</word>
+  </ca>
+
+  <ca>
+    <word>After Effects</word>
+  </ca>
+
+  <ca>
+    <word>AirMac</word>
+  </ca>
+
+  <ca>
+    <word>Ajax</word>
+    <annotation>Asynchronous JavaScript and XML</annotation>
+  </ca>
+
+  <ca>
+    <word>AMS-TeX</word>
+  </ca>
+
+  <ca>
+    <word>AngularJS</word>
+  </ca>
+
+  <ca>
+    <word>ArabTeX</word>
+  </ca>
+
+  <ca>
+    <word>arXiv</word>
+  </ca>
+
+  <ca>
+    <word>AsciiDoc</word>
+  </ca>
+
+  <ca>
+    <word>AUCTeX</word>
+  </ca>
+
+  <ca>
+    <word>Backbone.js</word>
+  </ca>
+
+  <ca>
+    <word>BibTeX</word>
+  </ca>
+
+  <ca>
+    <word>bioRxiv</word>
+  </ca>
+
+  <ca>
+    <word>ChemRxiv</word>
+  </ca>
+
+  <ca>
+    <word>CircuiTikZ</word>
+  </ca>
+
+  <ca>
+    <word>ColdFusion</word>
+  </ca>
+
+  <ca>
+    <word>CommonJS</word>
+  </ca>
+
+  <ca>
+    <word>CommonMark</word>
+  </ca>
+
+  <ca>
+    <word>ConTeXt</word>
+  </ca>
+
+  <ca>
+    <word>CTAN</word>
+    <annotation>Comprehensive TeX Archive Network</annotation>
+  </ca>
+
+  <ca>
+    <word>Dreamweaver</word>
+  </ca>
+
+  <ca>
+    <word>EarthArXiv</word>
+  </ca>
+
+  <ca>
+    <word>eBay</word>
+  </ca>
+
+  <ca>
+    <word>ECMAScript</word>
+  </ca>
+
+  <ca>
+    <word>Elasticsearch</word>
+  </ca>
+
+  <ca>
+    <word>Ember.js</word>
+  </ca>
+
+  <ca>
+    <word>engrXiv</word>
+  </ca>
+
+  <ca>
+    <word>Excel</word>
+    <annotation>Microsoft Excel</annotation>
+  </ca>
+
+  <ca>
+    <word>ExCeL</word>
+    <annotation>Exhibition Centre London</annotation>
+  </ca>
+
+  <ca>
+    <word>eXist-db</word>
+  </ca>
+
+  <ca>
+    <word>Facebook</word>
+  </ca>
+
+  <ca>
+    <word>FarsiTeX</word>
+  </ca>
+
+  <ca>
+    <word>FrameMaker</word>
+  </ca>
+
+  <ca>
+    <word>FreeBSD</word>
+  </ca>
+
+  <ca>
+    <word>FreeHand</word>
+  </ca>
+
+  <ca>
+    <word>GitHub</word>
+  </ca>
+
+  <ca>
+    <word>GoLive</word>
+  </ca>
+
+  <ca>
+    <word>HomePod</word>
+  </ca>
+
+  <ca>
+    <word>iMac</word>
+  </ca>
+
+  <ca>
+    <word>InDesign</word>
+  </ca>
+
+  <ca>
+    <word>iOS</word>
+  </ca>
+
+  <ca>
+    <word>iPad</word>
+  </ca>
+
+  <ca>
+    <word>iPadOS</word>
+  </ca>
+
+  <ca>
+    <word>iPhone</word>
+  </ca>
+
+  <ca>
+    <word>iPod</word>
+  </ca>
+
+  <ca>
+    <word>jQuery</word>
+  </ca>
+
+  <ca>
+    <word>jQWidgets</word>
+  </ca>
+
+  <ca>
+    <word>jsMath</word>
+  </ca>
+
+  <ca>
+    <word>L&apos;Arc-en-Ciel</word>
+  </ca>
+
+  <ca>
+    <word>L&apos;Arc~en~Ciel</word>
+  </ca>
+
+  <ca>
+    <word>LaTeX</word>
+  </ca>
+
+  <ca>
+    <word>LiveCycle</word>
+  </ca>
+
+  <ca>
+    <word>LuaTeX</word>
+  </ca>
+
+  <ca>
+    <word>LyX</word>
+  </ca>
+
+  <ca>
+    <word>MacBook</word>
+  </ca>
+
+  <ca>
+    <word>MacBook Air</word>
+  </ca>
+
+  <ca>
+    <word>MacBook Pro</word>
+  </ca>
+
+  <ca>
+    <word>macOS</word>
+  </ca>
+
+  <ca>
+    <word>Mac OS</word>
+  </ca>
+
+  <ca>
+    <word>Mac OS X</word>
+  </ca>
+
+  <ca>
+    <word>Macromedia</word>
+  </ca>
+
+  <ca>
+    <word>MacTeX</word>
+  </ca>
+
+  <ca>
+    <word>MagSafe</word>
+  </ca>
+
+  <ca>
+    <word>Markdown</word>
+  </ca>
+
+  <ca>
+    <word>Markdown Extra</word>
+  </ca>
+
+  <ca>
+    <word>MathJax</word>
+  </ca>
+
+  <ca>
+    <word>medRxiv</word>
+  </ca>
+
+  <ca>
+    <word>Microsoft</word>
+  </ca>
+
+  <ca>
+    <word>MiKTeX</word>
+  </ca>
+
+  <ca>
+    <word>MultiMarkdown</word>
+  </ca>
+
+  <ca>
+    <word>MusiXTeX</word>
+  </ca>
+
+  <ca>
+    <word>Myspace</word>
+  </ca>
+
+  <ca>
+    <word>MySpace</word>
+  </ca>
+
+  <ca>
+    <word>MySpaceTV</word>
+  </ca>
+
+  <ca>
+    <word>MySQL</word>
+  </ca>
+
+  <ca>
+    <word>Node.js</word>
+  </ca>
+
+  <ca>
+    <word>OAuth</word>
+  </ca>
+
+  <ca>
+    <word>OCaml</word>
+  </ca>
+
+  <ca>
+    <word>OneDrive</word>
+  </ca>
+
+  <ca>
+    <word>OneNote</word>
+  </ca>
+
+  <ca>
+    <word>Outlook</word>
+  </ca>
+
+  <ca>
+    <word>PageMaker</word>
+  </ca>
+
+  <ca>
+    <word>PayPal</word>
+  </ca>
+
+  <ca>
+    <word>pdfTeX</word>
+  </ca>
+
+  <ca>
+    <word>PETSc</word>
+    <annotation>Portable, Extensible Toolkit for Scientific Computation</annotation>
+  </ca>
+
+  <ca>
+    <word>Photoshop</word>
+  </ca>
+
+  <ca>
+    <word>PlayStation</word>
+  </ca>
+
+  <ca>
+    <word>PostScript</word>
+  </ca>
+
+  <ca>
+    <word>PowerPoint</word>
+  </ca>
+
+  <ca>
+    <word>PracTeX</word>
+  </ca>
+
+  <ca>
+    <word>PsyArXiv</word>
+  </ca>
+
+  <ca>
+    <word>Pyjs</word>
+  </ca>
+
+  <ca>
+    <word>RESTful</word>
+  </ca>
+
+  <ca>
+    <word>RMarkdown</word>
+  </ca>
+
+  <ca>
+    <word>RStudio</word>
+  </ca>
+
+  <ca>
+    <word>Sails.js</word>
+  </ca>
+
+  <ca>
+    <word>SocArXiv</word>
+  </ca>
+
+  <ca>
+    <word>Socket.IO</word>
+  </ca>
+
+  <ca>
+    <word>SoftBank</word>
+  </ca>
+
+  <ca>
+    <word>TeX</word>
+  </ca>
+
+  <ca>
+    <word>TeX Live</word>
+  </ca>
+
+  <ca>
+    <word>Texmaker</word>
+  </ca>
+
+  <ca>
+    <word>TeXnicCenter</word>
+  </ca>
+
+  <ca>
+    <word>TikTok</word>
+  </ca>
+
+  <ca>
+    <word>TikZ</word>
+  </ca>
+
+  <ca>
+    <word>TUGboat</word>
+    <annotation>TeX Users Groupが発行する雑誌</annotation>
+  </ca>
+
+  <ca>
+    <word>tvOS</word>
+  </ca>
+
+  <ca>
+    <word>Underscore.js</word>
+  </ca>
+
+  <ca>
+    <word>viXra</word>
+  </ca>
+
+  <ca>
+    <word>Vue.js</word>
+  </ca>
+
+  <ca>
+    <word>watchOS</word>
+  </ca>
+
+  <ca>
+    <word>WebAssembly</word>
+  </ca>
+
+  <ca>
+    <word>WebMoney</word>
+  </ca>
+
+  <ca>
+    <word>WebRTC</word>
+  </ca>
+
+  <ca>
+    <word>WebSocket</word>
+  </ca>
+
+  <ca>
+    <word>web worker</word>
+  </ca>
+
+  <ca>
+    <word>XeTeX</word>
+  </ca>
+
+  <ca>
+    <word>XQuery</word>
+  </ca>
+
+  <ca>
+    <word>XyMTeX</word>
+  </ca>
+
+  <ca>
+    <word>Yahoo!</word>
+  </ca>
+
+</jisyo>

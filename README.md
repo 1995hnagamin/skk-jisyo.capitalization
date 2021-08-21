@@ -11,7 +11,7 @@ The following commands will generate `SKK-JISYO.capitalization`.
 Copy it to an appropriate directory.
 
 ```
-bundle config --local path 'vendor/bundle
+bundle config --local path 'vendor/bundle'
 bundle install
 make
 ```

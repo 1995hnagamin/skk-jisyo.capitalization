@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require 'nokogiri'
 
 xsd = Nokogiri::XML::Schema(File.read('skk-jisyo.xsd'))
@@ -15,7 +16,7 @@ results = sources.map do |filename|
     end
     success = false
   else
-    puts "OK"
+    puts 'OK'
   end
 
   puts

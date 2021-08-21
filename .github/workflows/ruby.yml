@@ -33,6 +33,8 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Validate dictionaries
       run: bundle exec ruby validate-xml.rb
+    - name: Run RuboCop
+      run: bundle exec rubocop
 
 
   build:

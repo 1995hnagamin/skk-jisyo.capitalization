@@ -22,15 +22,7 @@
   </ca>
 
   <ca>
-    <word>AMS-TeX</word>
-  </ca>
-
-  <ca>
     <word>AngularJS</word>
-  </ca>
-
-  <ca>
-    <word>ArabTeX</word>
   </ca>
 
   <ca>
@@ -42,15 +34,7 @@
   </ca>
 
   <ca>
-    <word>AUCTeX</word>
-  </ca>
-
-  <ca>
     <word>Backbone.js</word>
-  </ca>
-
-  <ca>
-    <word>BibTeX</word>
   </ca>
 
   <ca>
@@ -59,10 +43,6 @@
 
   <ca>
     <word>ChemRxiv</word>
-  </ca>
-
-  <ca>
-    <word>CircuiTikZ</word>
   </ca>
 
   <ca>
@@ -75,15 +55,6 @@
 
   <ca>
     <word>CommonMark</word>
-  </ca>
-
-  <ca>
-    <word>ConTeXt</word>
-  </ca>
-
-  <ca>
-    <word>CTAN</word>
-    <annotation>Comprehensive TeX Archive Network</annotation>
   </ca>
 
   <ca>
@@ -130,10 +101,6 @@
 
   <ca>
     <word>Facebook</word>
-  </ca>
-
-  <ca>
-    <word>FarsiTeX</word>
   </ca>
 
   <ca>
@@ -209,19 +176,7 @@
   </ca>
 
   <ca>
-    <word>LaTeX</word>
-  </ca>
-
-  <ca>
     <word>LiveCycle</word>
-  </ca>
-
-  <ca>
-    <word>LuaTeX</word>
-  </ca>
-
-  <ca>
-    <word>LyX</word>
   </ca>
 
   <ca>
@@ -253,10 +208,6 @@
   </ca>
 
   <ca>
-    <word>MacTeX</word>
-  </ca>
-
-  <ca>
     <word>MagSafe</word>
   </ca>
 
@@ -281,15 +232,7 @@
   </ca>
 
   <ca>
-    <word>MiKTeX</word>
-  </ca>
-
-  <ca>
     <word>MultiMarkdown</word>
-  </ca>
-
-  <ca>
-    <word>MusiXTeX</word>
   </ca>
 
   <ca>
@@ -341,10 +284,6 @@
   </ca>
 
   <ca>
-    <word>pdfTeX</word>
-  </ca>
-
-  <ca>
     <word>PETSc</word>
     <annotation>Portable, Extensible Toolkit for Scientific Computation</annotation>
   </ca>
@@ -363,10 +302,6 @@
 
   <ca>
     <word>PowerPoint</word>
-  </ca>
-
-  <ca>
-    <word>PracTeX</word>
   </ca>
 
   <ca>
@@ -406,32 +341,7 @@
   </ca>
 
   <ca>
-    <word>TeX</word>
-  </ca>
-
-  <ca>
-    <word>TeX Live</word>
-  </ca>
-
-  <ca>
-    <word>Texmaker</word>
-  </ca>
-
-  <ca>
-    <word>TeXnicCenter</word>
-  </ca>
-
-  <ca>
     <word>TikTok</word>
-  </ca>
-
-  <ca>
-    <word>TikZ</word>
-  </ca>
-
-  <ca>
-    <word>TUGboat</word>
-    <annotation>TeX Users Groupが発行する雑誌</annotation>
   </ca>
 
   <ca>
@@ -475,15 +385,7 @@
   </ca>
 
   <ca>
-    <word>XeTeX</word>
-  </ca>
-
-  <ca>
     <word>XQuery</word>
-  </ca>
-
-  <ca>
-    <word>XyMTeX</word>
   </ca>
 
   <ca>

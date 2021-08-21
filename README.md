@@ -7,7 +7,7 @@ To build `SKK-JISYO.capitalization`, you have to install:
 * Ruby 3.0 or later
 * Bundler 2.2 or later
 
-The following command will generate `SKK-JISYO.capitalization`.
+The following commands will generate `SKK-JISYO.capitalization`.
 Copy it to an appropriate directory.
 
 ```

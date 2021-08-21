@@ -45,7 +45,9 @@ jobs:
         ruby-version: '3.0'
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Run RuboCop
-      run: bundle exec rubocop
+      run: |
+        bundle exec rubocop --version
+        bundle exec rubocop
 
 
   build:

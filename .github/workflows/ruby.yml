@@ -32,7 +32,22 @@ jobs:
         ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Validate dictionaries
-      run: bundle exec ruby validate-xml.rb
+      run: bundle exec ruby validate_xml.rb
+
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@473e4d8fe5dd94ee328fdfca9f8c9c7afc9dae5e
+      with:
+        ruby-version: '3.0'
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Run RuboCop
+      run: |
+        bundle exec rubocop --version
+        bundle exec rubocop
 
 
   build:

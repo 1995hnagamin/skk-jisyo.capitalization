@@ -1,4 +1,5 @@
 # coding: euc-jp
+# frozen_string_literal: true
 
 require 'nokogiri'
 

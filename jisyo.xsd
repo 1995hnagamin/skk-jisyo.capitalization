@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="EUC-JP"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="yomi" type="xs:string"/>
+  <xs:element name="word" type="xs:string"/>
+  <xs:element name="annotation" type="xs:string"/>
+
+  <xs:element name="ca">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="yomi" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="word" />
+        <xs:element ref="annotation" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="jisyo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ca" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

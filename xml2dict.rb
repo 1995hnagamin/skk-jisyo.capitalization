@@ -6,6 +6,7 @@ outfile = File.open('dict.txt', 'w', encoding: 'EUC-JP')
 
 sources = [
   'dict.xml',
+  'dict/apple.xml',
   'dict/arxiv.xml',
   'dict/tex.xml'
 ]

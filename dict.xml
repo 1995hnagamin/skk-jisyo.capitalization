@@ -26,23 +26,11 @@
   </ca>
 
   <ca>
-    <word>arXiv</word>
-  </ca>
-
-  <ca>
     <word>AsciiDoc</word>
   </ca>
 
   <ca>
     <word>Backbone.js</word>
-  </ca>
-
-  <ca>
-    <word>bioRxiv</word>
-  </ca>
-
-  <ca>
-    <word>ChemRxiv</word>
   </ca>
 
   <ca>
@@ -62,10 +50,6 @@
   </ca>
 
   <ca>
-    <word>EarthArXiv</word>
-  </ca>
-
-  <ca>
     <word>eBay</word>
   </ca>
 
@@ -79,10 +63,6 @@
 
   <ca>
     <word>Ember.js</word>
-  </ca>
-
-  <ca>
-    <word>engrXiv</word>
   </ca>
 
   <ca>
@@ -224,10 +204,6 @@
   </ca>
 
   <ca>
-    <word>medRxiv</word>
-  </ca>
-
-  <ca>
     <word>Microsoft</word>
   </ca>
 
@@ -329,10 +305,6 @@
   </ca>
 
   <ca>
-    <word>SocArXiv</word>
-  </ca>
-
-  <ca>
     <word>Socket.IO</word>
   </ca>
 
@@ -350,10 +322,6 @@
 
   <ca>
     <word>Underscore.js</word>
-  </ca>
-
-  <ca>
-    <word>viXra</word>
   </ca>
 
   <ca>

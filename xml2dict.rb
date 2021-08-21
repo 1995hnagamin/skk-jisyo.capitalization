@@ -4,7 +4,11 @@ require 'nokogiri'
 
 outfile = File.open('dict.txt', 'w', encoding: 'EUC-JP')
 
-sources = ['dict.xml', 'dict/tex.xml']
+sources = [
+  'dict.xml',
+  'dict/arxiv.xml',
+  'dict/tex.xml'
+]
 
 sources.each do |filename|
   doc = Nokogiri::XML(File.open(filename, 'r', encoding: 'EUC-JP'))

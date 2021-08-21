@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='EUC-JP'?>
+<jisyo>
+  <ca>
+    <word>arXiv</word>
+  </ca>
+
+  <ca>
+    <word>bioRxiv</word>
+  </ca>
+
+  <ca>
+    <word>ChemRxiv</word>
+  </ca>
+
+  <ca>
+    <word>EarthArXiv</word>
+  </ca>
+
+  <ca>
+    <word>engrXiv</word>
+  </ca>
+
+  <ca>
+    <word>medRxiv</word>
+  </ca>
+
+  <ca>
+    <word>SocArXiv</word>
+  </ca>
+
+  <ca>
+    <word>viXra</word>
+  </ca>
+</jisyo>

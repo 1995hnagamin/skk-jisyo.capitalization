@@ -13,16 +13,8 @@
   </ca>
 
   <ca>
-    <word>AirMac</word>
-  </ca>
-
-  <ca>
     <word>Ajax</word>
     <annotation>Asynchronous JavaScript and XML</annotation>
-  </ca>
-
-  <ca>
-    <word>AMS-TeX</word>
   </ca>
 
   <ca>
@@ -30,39 +22,11 @@
   </ca>
 
   <ca>
-    <word>ArabTeX</word>
-  </ca>
-
-  <ca>
-    <word>arXiv</word>
-  </ca>
-
-  <ca>
     <word>AsciiDoc</word>
   </ca>
 
   <ca>
-    <word>AUCTeX</word>
-  </ca>
-
-  <ca>
     <word>Backbone.js</word>
-  </ca>
-
-  <ca>
-    <word>BibTeX</word>
-  </ca>
-
-  <ca>
-    <word>bioRxiv</word>
-  </ca>
-
-  <ca>
-    <word>ChemRxiv</word>
-  </ca>
-
-  <ca>
-    <word>CircuiTikZ</word>
   </ca>
 
   <ca>
@@ -78,20 +42,7 @@
   </ca>
 
   <ca>
-    <word>ConTeXt</word>
-  </ca>
-
-  <ca>
-    <word>CTAN</word>
-    <annotation>Comprehensive TeX Archive Network</annotation>
-  </ca>
-
-  <ca>
     <word>Dreamweaver</word>
-  </ca>
-
-  <ca>
-    <word>EarthArXiv</word>
   </ca>
 
   <ca>
@@ -111,10 +62,6 @@
   </ca>
 
   <ca>
-    <word>engrXiv</word>
-  </ca>
-
-  <ca>
     <word>Excel</word>
     <annotation>Microsoft Excel</annotation>
   </ca>
@@ -130,10 +77,6 @@
 
   <ca>
     <word>Facebook</word>
-  </ca>
-
-  <ca>
-    <word>FarsiTeX</word>
   </ca>
 
   <ca>
@@ -161,31 +104,7 @@
   </ca>
 
   <ca>
-    <word>iMac</word>
-  </ca>
-
-  <ca>
     <word>InDesign</word>
-  </ca>
-
-  <ca>
-    <word>iOS</word>
-  </ca>
-
-  <ca>
-    <word>iPad</word>
-  </ca>
-
-  <ca>
-    <word>iPadOS</word>
-  </ca>
-
-  <ca>
-    <word>iPhone</word>
-  </ca>
-
-  <ca>
-    <word>iPod</word>
   </ca>
 
   <ca>
@@ -209,55 +128,11 @@
   </ca>
 
   <ca>
-    <word>LaTeX</word>
-  </ca>
-
-  <ca>
     <word>LiveCycle</word>
   </ca>
 
   <ca>
-    <word>LuaTeX</word>
-  </ca>
-
-  <ca>
-    <word>LyX</word>
-  </ca>
-
-  <ca>
-    <word>MacBook</word>
-  </ca>
-
-  <ca>
-    <word>MacBook Air</word>
-  </ca>
-
-  <ca>
-    <word>MacBook Pro</word>
-  </ca>
-
-  <ca>
-    <word>macOS</word>
-  </ca>
-
-  <ca>
-    <word>Mac OS</word>
-  </ca>
-
-  <ca>
-    <word>Mac OS X</word>
-  </ca>
-
-  <ca>
     <word>Macromedia</word>
-  </ca>
-
-  <ca>
-    <word>MacTeX</word>
-  </ca>
-
-  <ca>
-    <word>MagSafe</word>
   </ca>
 
   <ca>
@@ -273,23 +148,11 @@
   </ca>
 
   <ca>
-    <word>medRxiv</word>
-  </ca>
-
-  <ca>
     <word>Microsoft</word>
   </ca>
 
   <ca>
-    <word>MiKTeX</word>
-  </ca>
-
-  <ca>
     <word>MultiMarkdown</word>
-  </ca>
-
-  <ca>
-    <word>MusiXTeX</word>
   </ca>
 
   <ca>
@@ -341,10 +204,6 @@
   </ca>
 
   <ca>
-    <word>pdfTeX</word>
-  </ca>
-
-  <ca>
     <word>PETSc</word>
     <annotation>Portable, Extensible Toolkit for Scientific Computation</annotation>
   </ca>
@@ -363,10 +222,6 @@
 
   <ca>
     <word>PowerPoint</word>
-  </ca>
-
-  <ca>
-    <word>PracTeX</word>
   </ca>
 
   <ca>
@@ -394,10 +249,6 @@
   </ca>
 
   <ca>
-    <word>SocArXiv</word>
-  </ca>
-
-  <ca>
     <word>Socket.IO</word>
   </ca>
 
@@ -406,32 +257,7 @@
   </ca>
 
   <ca>
-    <word>TeX</word>
-  </ca>
-
-  <ca>
-    <word>TeX Live</word>
-  </ca>
-
-  <ca>
-    <word>Texmaker</word>
-  </ca>
-
-  <ca>
-    <word>TeXnicCenter</word>
-  </ca>
-
-  <ca>
     <word>TikTok</word>
-  </ca>
-
-  <ca>
-    <word>TikZ</word>
-  </ca>
-
-  <ca>
-    <word>TUGboat</word>
-    <annotation>TeX Users Groupが発行する雑誌</annotation>
   </ca>
 
   <ca>
@@ -440,10 +266,6 @@
 
   <ca>
     <word>Underscore.js</word>
-  </ca>
-
-  <ca>
-    <word>viXra</word>
   </ca>
 
   <ca>
@@ -475,15 +297,7 @@
   </ca>
 
   <ca>
-    <word>XeTeX</word>
-  </ca>
-
-  <ca>
     <word>XQuery</word>
-  </ca>
-
-  <ca>
-    <word>XyMTeX</word>
   </ca>
 
   <ca>

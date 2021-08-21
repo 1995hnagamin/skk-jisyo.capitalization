@@ -1,14 +1,26 @@
 require 'nokogiri'
 
-xsd = Nokogiri::XML::Schema(File.read('jisyo.xsd'))
-doc = Nokogiri::XML(File.read('dict.xml'))
+xsd = Nokogiri::XML::Schema(File.read('skk-jisyo.xsd'))
 
-errors = xsd.validate(doc)
-if errors.empty?
-  puts 'OK'
-  exit(0)
+sources = Dir['dict/*.xml']
+
+results = sources.map do |filename|
+  puts filename
+
+  doc = Nokogiri::XML(File.open(filename, 'r', encoding: 'EUC-JP'))
+  errors = xsd.validate(doc)
+  if !errors.empty?
+    errors.each do |e|
+      puts e.message
+    end
+    success = false
+  else
+    puts "OK"
+  end
+
+  puts
+
+  errors.empty?
 end
 
-errors.each do |e|
-  puts e.message
-end
+exit(results.all?)

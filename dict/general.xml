@@ -303,4 +303,10 @@
   <ca>
     <word>Yahoo!</word>
   </ca>
+
+  <ca>
+    <!-- https://zone-energy.jp/ -->
+    <word>ZONe</word>
+    <annotation>サントリーフーズが販売するエナジードリンク</annotation>
+  </ca>
 </jisyo>

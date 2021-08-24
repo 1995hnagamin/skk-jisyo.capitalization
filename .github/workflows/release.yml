@@ -27,6 +27,8 @@ jobs:
       with:
         ruby-version: '3.0'
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Generate SKK-JISYO.capitalization
+      run: make
     - name: Release
       uses: softprops/action-gh-release@v1
       with:

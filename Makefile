@@ -10,7 +10,7 @@ SKK-JISYO.capitalization: dict.txt
 SKK-JISYO.capitalization.utf8: SKK-JISYO.capitalization
 	nkf -w $< > $@
 
-dict.txt: xml2dict.rb
+dict.txt: xml2dict.rb $(shell find dict)
 	bundle exec ruby xml2dict.rb
 
 clean:

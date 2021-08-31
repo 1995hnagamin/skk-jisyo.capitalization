@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='EUC-JP'?>
 <jisyo>
+  <!--
+    このファイルは、ウィキペディア日本語版のデータベースダンプ jawiki-latest-pages-articles.xml.bz2
+    (https://dumps.wikimedia.org/jawiki/latest/) から生成されました。
+    jawiki-latest-pages-articles.xml.bz2 は、ウィキメディア財団がクリエイティブ・コモンズの 表示-継承 3.0 非移植 ライセンス
+    (CC BY-SA 3.0, http://creativecommons.org/licenses/by-sa/3.0/) の下で提供しています。
+
+    このファイルは、クリエイティブ・コモンズの 表示 - 継承 4.0 国際 ライセンス (CC BY-SA 4.0) で提供されています。
+    ライセンスの写しをご覧になるには、 http://creativecommons.org/licenses/by-sa/4.0/ をご覧頂くか、
+    Creative Commons, PO Box 1866, Mountain View, CA 94042, USA までお手紙をお送りください。
+  -->
+
   <ca>
     <word>AArt</word>
   </ca>

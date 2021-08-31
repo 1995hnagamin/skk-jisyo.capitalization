@@ -4,8 +4,9 @@ TARGET = \
 
 all:	$(TARGET)
 
-SKK-JISYO.capitalization: dict.txt
-	skkdic-expr2 $< > $@
+SKK-JISYO.capitalization: dict.txt etc/head.txt
+	cat etc/head.txt > $@
+	skkdic-expr2 $< >> $@
 
 SKK-JISYO.capitalization.utf8: SKK-JISYO.capitalization
 	nkf -w $< > $@

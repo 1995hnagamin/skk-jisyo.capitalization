@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='EUC-JP'?>
+<jisyo>
+
+  <ca>
+    <word>HoloLens</word>
+    <!-- https://www.microsoft.com/ja-jp/hololens/ -->
+  </ca>
+
+  <ca>
+    <word>ScalikeJDBC</word>
+    <!-- http://scalikejdbc.org/ -->
+  </ca>
+
+</jisyo>

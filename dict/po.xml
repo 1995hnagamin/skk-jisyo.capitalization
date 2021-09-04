@@ -18,6 +18,58 @@
   </ca>
 
   <ca>
+    <word>COVER</word>
+    <annotation>[企業名]</annotation>
+    <!-- https://cover-corp.com/ -->
+  </ca>
+
+  <!-- COVER -->
+  <ca>
+    <word>hololive</word>
+    <!-- https://www.hololive.tv/ -->
+  </ca>
+
+  <ca>
+    <word>holostars</word>
+    <!-- https://www.holostars.tv/ -->
+  </ca>
+  <!-- / COVER -->
+
+  <ca>
+    <word>DUSTCELL</word>
+    <annotation>音楽グループ</annotation>
+    <!-- https://kamitsubaki.jp/artist/dustcell/ -->
+  </ca>
+
+  <ca>
+    <word>GeG</word>
+    <annotation>音楽プロデューサー</annotation>
+    <!-- https://twitter.com/GeGisMellow -->
+  </ca>
+
+  <ca>
+    <word>GitHub</word>
+  </ca>
+
+  <ca>
+    <word>LinkedIn</word>
+  </ca>
+
+  <ca>
+    <word>MAISONdes</word>
+    <annotation>アーティスト集団</annotation>
+    <!-- https://www.sonymusic.co.jp/artist/MAISONdes/ -->
+  </ca>
+
+  <ca>
+    <word>Microsoft</word>
+    <annotation>[企業名]</annotation>
+    <!-- https://www.microsoft.com/ja-jp/ -->
+    <!-- 商標登録3218846 "MICROSOFT" -->
+    <!-- 商標登録3218846 "Microsoft" -->
+  </ca>
+
+  <ca>
     <word>pixiv</word>
     <annotation>[企業名]</annotation>
     <!-- 商標登録5271270 -->
@@ -31,7 +83,6 @@
 
   <ca>
     <word>ImageFlux</word>
-    <annotation><annotation>
   </ca>
 
   <ca>
@@ -56,7 +107,7 @@
 
   <ca>
     <word>sensei</word>
-    <annotation>https://sensei.pixiv.net/<annotation>
+    <annotation>https://sensei.pixiv.net/</annotation>
   </ca>
 
   <ca>
@@ -67,5 +118,9 @@
     <word>VRoid Studio</word>
   </ca>
   <!-- / pixiv -->
+
+  <ca>
+    <word>QuizKnock</word>
+  </ca>
 
 </jisyo>

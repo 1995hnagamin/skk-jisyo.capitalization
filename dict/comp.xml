@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='EUC-JP'?>
+<jisyo>
+
+  <ca>
+    <word>AquaSKK</word>
+  </ca>
+
+  <ca>
+    <word>HoloLens</word>
+    <!-- https://www.microsoft.com/ja-jp/hololens/ -->
+  </ca>
+
+  <ca>
+    <word>DevOps</word>
+  </ca>
+
+  <ca>
+    <word>IronPython</word>
+  </ca>
+
+  <ca>
+    <word>IronRuby</word>
+  </ca>
+
+  <ca>
+    <word>JScript</word>
+  </ca>
+
+  <ca>
+    <word>NuGet</word>
+  </ca>
+
+  <ca>
+    <word>OneNote</word>
+  </ca>
+
+  <ca>
+    <word>PowerPoint</word>
+  </ca>
+
+  <ca>
+    <word>ScalikeJDBC</word>
+    <!-- http://scalikejdbc.org/ -->
+  </ca>
+
+  <ca>
+    <word>TypeScript</word>
+  </ca>
+
+</jisyo>

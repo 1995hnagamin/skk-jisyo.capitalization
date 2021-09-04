@@ -2080,10 +2080,6 @@
   </ca>
 
   <ca>
-    <word>DevOps</word>
-  </ca>
-
-  <ca>
     <word>DeviceHigh</word>
   </ca>
 
@@ -3304,10 +3300,6 @@
   </ca>
 
   <ca>
-    <word>GitHub</word>
-  </ca>
-
-  <ca>
     <word>GitLab</word>
   </ca>
 
@@ -4064,14 +4056,6 @@
   </ca>
 
   <ca>
-    <word>IronPython</word>
-  </ca>
-
-  <ca>
-    <word>IronRuby</word>
-  </ca>
-
-  <ca>
     <word>IruCa</word>
   </ca>
 
@@ -4161,10 +4145,6 @@
 
   <ca>
     <word>JScape</word>
-  </ca>
-
-  <ca>
-    <word>JScript</word>
   </ca>
 
   <ca>
@@ -4969,10 +4949,6 @@
 
   <ca>
     <word>LineageOS</word>
-  </ca>
-
-  <ca>
-    <word>LinkedIn</word>
   </ca>
 
   <ca>
@@ -6428,10 +6404,6 @@
   </ca>
 
   <ca>
-    <word>NuGet</word>
-  </ca>
-
-  <ca>
     <word>NuSTAR</word>
   </ca>
 
@@ -7753,10 +7725,6 @@
 
   <ca>
     <word>QuinRose</word>
-  </ca>
-
-  <ca>
-    <word>QuizKnock</word>
   </ca>
 
   <ca>
@@ -9721,10 +9689,6 @@
 
   <ca>
     <word>TypePad</word>
-  </ca>
-
-  <ca>
-    <word>TypeScript</word>
   </ca>
 
   <ca>

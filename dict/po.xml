@@ -17,4 +17,55 @@
     <annotation>[´ë¶ÈÌ¾]</annotation>
   </ca>
 
+  <ca>
+    <word>pixiv</word>
+    <annotation>[´ë¶ÈÌ¾]</annotation>
+    <!-- ¾¦É¸ÅÐÏ¿5271270 -->
+  </ca>
+
+  <!-- pixiv https://www.pixiv.co.jp/service/ -->
+  <ca>
+    <word>BOOTH</word>
+    <annotation>https://booth.pm/</annotation>
+  </ca>
+
+  <ca>
+    <word>ImageFlux</word>
+    <annotation><annotation>
+  </ca>
+
+  <ca>
+    <word>pixivFACTORY</word>
+  </ca>
+
+  <ca>
+    <word>pixivFANBOX</word>
+  </ca>
+
+  <ca>
+    <word>pixivision</word>
+  </ca>
+
+  <ca>
+    <word>pixiv Sketch</word>
+  </ca>
+
+  <ca>
+    <word>pixiv WAEN GALLERY</word>
+  </ca>
+
+  <ca>
+    <word>sensei</word>
+    <annotation>https://sensei.pixiv.net/<annotation>
+  </ca>
+
+  <ca>
+    <word>VRoid Hub</word>
+  </ca>
+
+  <ca>
+    <word>VRoid Studio</word>
+  </ca>
+  <!-- / pixiv -->
+
 </jisyo>

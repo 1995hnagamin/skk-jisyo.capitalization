@@ -7,8 +7,48 @@
   </ca>
 
   <ca>
+    <word>DevOps</word>
+  </ca>
+
+  <ca>
+    <word>GitHub</word>
+  </ca>
+
+  <ca>
+    <word>IronPython</word>
+  </ca>
+
+  <ca>
+    <word>IronRuby</word>
+  </ca>
+
+  <ca>
+    <word>JScript</word>
+  </ca>
+
+  <ca>
+    <word>LinkedIn</word>
+  </ca>
+
+  <ca>
+    <word>NuGet</word>
+  </ca>
+
+  <ca>
+    <word>OneNote</word>
+  </ca>
+
+  <ca>
+    <word>PowerPoint</word>
+  </ca>
+
+  <ca>
     <word>ScalikeJDBC</word>
     <!-- http://scalikejdbc.org/ -->
+  </ca>
+
+  <ca>
+    <word>TypeScript</word>
   </ca>
 
 </jisyo>

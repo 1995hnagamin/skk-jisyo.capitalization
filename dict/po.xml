@@ -35,6 +35,19 @@
   </ca>
 
   <ca>
+    <word>eBay</word>
+  </ca>
+
+  <ca>
+    <word>ExCeL</word>
+    <annotation>Exhibition Centre London</annotation>
+  </ca>
+
+  <ca>
+    <word>Facebook</word>
+  </ca>
+
+  <ca>
     <word>GeG</word>
     <annotation>²»³Ú¥×¥í¥Ç¥å¡¼¥µ¡¼</annotation>
     <!-- https://twitter.com/GeGisMellow -->
@@ -59,6 +72,14 @@
   </ca>
 
   <ca>
+    <word>L'Arc-en-Ciel</word>
+  </ca>
+
+  <ca>
+    <word>L'Arc¡Áen¡ÁCiel</word>
+  </ca>
+
+  <ca>
     <word>LinkedIn</word>
   </ca>
 
@@ -74,6 +95,22 @@
     <!-- https://www.microsoft.com/ja-jp/ -->
     <!-- ¾¦É¸ÅÐÏ¿3218846 "MICROSOFT" -->
     <!-- ¾¦É¸ÅÐÏ¿3218846 "Microsoft" -->
+  </ca>
+
+  <ca>
+    <word>Myspace</word>
+  </ca>
+
+  <ca>
+    <word>MySpace</word>
+  </ca>
+
+  <ca>
+    <word>MySpaceTV</word>
+  </ca>
+
+  <ca>
+    <word>PayPal</word>
   </ca>
 
   <ca>
@@ -112,11 +149,27 @@
   </ca>
 
   <ca>
+    <word>SoftBank</word>
+  </ca>
+
+  <ca>
+    <word>TikTok</word>
+  </ca>
+
+  <ca>
     <word>VRoid Hub</word>
   </ca>
 
   <ca>
     <word>VRoid Studio</word>
+  </ca>
+
+  <ca>
+    <word>WebMoney</word>
+  </ca>
+
+  <ca>
+    <word>Yahoo!</word>
   </ca>
 
 </jisyo>

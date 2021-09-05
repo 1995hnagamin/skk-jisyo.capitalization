@@ -18,22 +18,15 @@
   </ca>
 
   <ca>
+    <word>BOOTH</word>
+    <annotation>https://booth.pm/</annotation>
+  </ca>
+
+  <ca>
     <word>COVER</word>
     <annotation>[´ë¶ÈÌ¾]</annotation>
     <!-- https://cover-corp.com/ -->
   </ca>
-
-  <!-- COVER -->
-  <ca>
-    <word>hololive</word>
-    <!-- https://www.hololive.tv/ -->
-  </ca>
-
-  <ca>
-    <word>holostars</word>
-    <!-- https://www.holostars.tv/ -->
-  </ca>
-  <!-- / COVER -->
 
   <ca>
     <word>DUSTCELL</word>
@@ -49,6 +42,20 @@
 
   <ca>
     <word>GitHub</word>
+  </ca>
+
+  <ca>
+    <word>hololive</word>
+    <!-- https://www.hololive.tv/ -->
+  </ca>
+
+  <ca>
+    <word>holostars</word>
+    <!-- https://www.holostars.tv/ -->
+  </ca>
+
+  <ca>
+    <word>ImageFlux</word>
   </ca>
 
   <ca>
@@ -75,16 +82,6 @@
     <!-- ¾¦É¸ÅÐÏ¿5271270 -->
   </ca>
 
-  <!-- pixiv https://www.pixiv.co.jp/service/ -->
-  <ca>
-    <word>BOOTH</word>
-    <annotation>https://booth.pm/</annotation>
-  </ca>
-
-  <ca>
-    <word>ImageFlux</word>
-  </ca>
-
   <ca>
     <word>pixivFACTORY</word>
   </ca>
@@ -106,6 +103,10 @@
   </ca>
 
   <ca>
+    <word>QuizKnock</word>
+  </ca>
+
+  <ca>
     <word>sensei</word>
     <annotation>https://sensei.pixiv.net/</annotation>
   </ca>
@@ -116,11 +117,6 @@
 
   <ca>
     <word>VRoid Studio</word>
-  </ca>
-  <!-- / pixiv -->
-
-  <ca>
-    <word>QuizKnock</word>
   </ca>
 
 </jisyo>

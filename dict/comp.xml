@@ -2,7 +2,48 @@
 <jisyo>
 
   <ca>
+    <word>ActionScript</word>
+  </ca>
+
+  <ca>
+    <word>ActivityPub</word>
+  </ca>
+
+  <ca>
+    <word>After Effects</word>
+  </ca>
+
+  <ca>
+    <word>Ajax</word>
+    <annotation>Asynchronous JavaScript and XML</annotation>
+  </ca>
+
+  <ca>
+    <word>AngularJS</word>
+  </ca>
+
+  <ca>
     <word>AquaSKK</word>
+  </ca>
+
+  <ca>
+    <word>AsciiDoc</word>
+  </ca>
+
+  <ca>
+    <word>Backbone.js</word>
+  </ca>
+
+  <ca>
+    <word>ColdFusion</word>
+  </ca>
+
+  <ca>
+    <word>CommonJS</word>
+  </ca>
+
+  <ca>
+    <word>CommonMark</word>
   </ca>
 
   <ca>
@@ -10,8 +51,57 @@
   </ca>
 
   <ca>
+    <word>Dreamweaver</word>
+  </ca>
+
+  <ca>
+    <word>ECMAScript</word>
+  </ca>
+
+  <ca>
+    <word>Elasticsearch</word>
+  </ca>
+
+  <ca>
+    <word>Ember.js</word>
+  </ca>
+
+  <ca>
+    <word>Excel</word>
+    <annotation>Microsoft Excel</annotation>
+  </ca>
+
+  <ca>
+    <word>eXist-db</word>
+  </ca>
+
+  <ca>
+    <word>FrameMaker</word>
+  </ca>
+
+  <ca>
+    <word>FreeBSD</word>
+  </ca>
+
+  <ca>
+    <word>FreeHand</word>
+  </ca>
+
+  <ca>
+    <word>GoLive</word>
+  </ca>
+
+  <ca>
     <word>HoloLens</word>
     <!-- https://www.microsoft.com/ja-jp/hololens/ -->
+  </ca>
+
+  <ca>
+    <word>HomePod</word>
+  </ca>
+
+  <ca>
+    <word>InDesign</word>
   </ca>
 
   <ca>
@@ -23,7 +113,51 @@
   </ca>
 
   <ca>
+    <word>jQuery</word>
+  </ca>
+
+  <ca>
+    <word>jQWidgets</word>
+  </ca>
+
+  <ca>
     <word>JScript</word>
+  </ca>
+
+  <ca>
+    <word>jsMath</word>
+  </ca>
+
+  <ca>
+    <word>LiveCycle</word>
+  </ca>
+
+  <ca>
+    <word>Macromedia</word>
+  </ca>
+
+  <ca>
+    <word>Markdown</word>
+  </ca>
+
+  <ca>
+    <word>Markdown Extra</word>
+  </ca>
+
+  <ca>
+    <word>MathJax</word>
+  </ca>
+
+  <ca>
+    <word>MultiMarkdown</word>
+  </ca>
+
+  <ca>
+    <word>MySQL</word>
+  </ca>
+
+  <ca>
+    <word>Node.js</word>
   </ca>
 
   <ca>
@@ -31,11 +165,65 @@
   </ca>
 
   <ca>
+    <word>OAuth</word>
+  </ca>
+
+  <ca>
+    <word>OCaml</word>
+  </ca>
+
+  <ca>
+    <word>OneDrive</word>
+  </ca>
+
+  <ca>
     <word>OneNote</word>
   </ca>
 
   <ca>
+    <word>Outlook</word>
+  </ca>
+
+  <ca>
+    <word>PageMaker</word>
+  </ca>
+
+  <ca>
+    <word>PETSc</word>
+    <annotation>Portable, Extensible Toolkit for Scientific Computation</annotation>
+  </ca>
+
+  <ca>
+    <word>Photoshop</word>
+  </ca>
+
+  <ca>
+    <word>PostScript</word>
+  </ca>
+
+  <ca>
     <word>PowerPoint</word>
+  </ca>
+
+  <ca>
+    <word>Pyjs</word>
+  </ca>
+
+  <ca>
+    <word>RESTful</word>
+  </ca>
+
+  <ca>
+    <word>RMarkdown</word>
+  </ca>
+
+  <ca>
+    <word>RStudio</word>
+    <annotation>R言語の統合開発環境</annotation>
+  </ca>
+
+  <ca>
+    <word>Sails.js</word>
   </ca>
 
   <ca>
@@ -44,7 +232,47 @@
   </ca>
 
   <ca>
+    <word>Socket.IO</word>
+  </ca>
+
+  <ca>
+    <word>tvOS</word>
+  </ca>
+
+  <ca>
     <word>TypeScript</word>
+  </ca>
+
+  <ca>
+    <word>Underscore.js</word>
+  </ca>
+
+  <ca>
+    <word>Vue.js</word>
+  </ca>
+
+  <ca>
+    <word>watchOS</word>
+  </ca>
+
+  <ca>
+    <word>WebAssembly</word>
+  </ca>
+
+  <ca>
+    <word>WebRTC</word>
+  </ca>
+
+  <ca>
+    <word>WebSocket</word>
+  </ca>
+
+  <ca>
+    <word>web worker</word>
+  </ca>
+
+  <ca>
+    <word>XQuery</word>
   </ca>
 
 </jisyo>

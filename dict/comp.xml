@@ -27,6 +27,17 @@
   </ca>
 
   <ca>
+    <word>App Store</word>
+    <annotation>https://www.apple.com/jp/app-store/</annotation>
+  </ca>
+
+  <ca>
+    <word>Appstore</word>
+    <annotation>Amazon Appstore</annotation>
+    <!-- https://www.amazon.com/gp/mas/get/android/ -->
+  </ca>
+
+  <ca>
     <word>AquaSKK</word>
   </ca>
 
@@ -76,7 +87,13 @@
   </ca>
 
   <ca>
+    <word>eXist</word>
+    <annotation>eXist-db</annotation>
+  </ca>
+
+  <ca>
     <word>eXist-db</word>
+    <!-- http://exist-db.org/ -->
   </ca>
 
   <ca>
@@ -176,6 +193,7 @@
 
   <ca>
     <word>macOS</word>
+    <annotation>2016¡Á</annotation>
   </ca>
 
   <ca>
@@ -273,6 +291,11 @@
 
   <ca>
     <word>RMarkdown</word>
+  </ca>
+
+  <ca>
+    <word>RoR</aord>
+    <annotation>Ruby on Rails</annotation>
   </ca>
 
   <ca>

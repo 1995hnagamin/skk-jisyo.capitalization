@@ -105,6 +105,16 @@
   </ca>
 
   <ca>
+    <word>iPAD</word>
+    <annotation>富士通</annotation>
+  </ca>
+
+  <ca>
+    <word>iPad</word>
+    <annotation>アップル</annotation>
+  </ca>
+
+  <ca>
     <word>IronPython</word>
   </ca>
 

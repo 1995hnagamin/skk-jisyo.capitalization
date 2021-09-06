@@ -14,6 +14,10 @@
   </ca>
 
   <ca>
+    <word>AirMac</word>
+  </ca>
+
+  <ca>
     <word>Ajax</word>
     <annotation>Asynchronous JavaScript and XML</annotation>
   </ca>
@@ -101,7 +105,15 @@
   </ca>
 
   <ca>
+    <word>iMac</word>
+  </ca>
+
+  <ca>
     <word>InDesign</word>
+  </ca>
+
+  <ca>
+    <word>iOS</word>
   </ca>
 
   <ca>
@@ -112,6 +124,14 @@
   <ca>
     <word>iPad</word>
     <annotation>アップル</annotation>
+  </ca>
+
+  <ca>
+    <word>iPhone</word>
+  </ca>
+
+  <ca>
+    <word>iPod</word>
   </ca>
 
   <ca>
@@ -143,7 +163,35 @@
   </ca>
 
   <ca>
+    <word>MacBook</word>
+  </ca>
+
+  <ca>
+    <word>MacBook Air</word>
+  </ca>
+
+  <ca>
+    <word>MacBook Pro</word>
+  </ca>
+
+  <ca>
+    <word>macOS</word>
+  </ca>
+
+  <ca>
+    <word>Mac OS</word>
+  </ca>
+
+  <ca>
+    <word>Mac OS X</word>
+  </ca>
+
+  <ca>
     <word>Macromedia</word>
+  </ca>
+
+  <ca>
+    <word>MagSafe</word>
   </ca>
 
   <ca>

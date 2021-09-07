@@ -14,12 +14,27 @@
   </ca>
 
   <ca>
+    <word>AirMac</word>
+  </ca>
+
+  <ca>
     <word>Ajax</word>
     <annotation>Asynchronous JavaScript and XML</annotation>
   </ca>
 
   <ca>
     <word>AngularJS</word>
+  </ca>
+
+  <ca>
+    <word>App Store</word>
+    <annotation>iOS向けアプリケーションプラットフォーム</annotation>
+  </ca>
+
+  <ca>
+    <word>Appstore</word>
+    <annotation>Amazon Appstore</annotation>
+    <!-- https://www.amazon.com/gp/mas/get/android/ -->
   </ca>
 
   <ca>
@@ -55,6 +70,27 @@
   </ca>
 
   <ca>
+    <word>DSi</word>
+    <annotation>ニンテンドーDSi</annotation>
+  </ca>
+
+  <ca>
+    <word>DSi LL</word>
+    <annotation>ニンテンドーDSi LL</annotation>
+  </ca>
+
+  <ca>
+    <word>DS Lite</word>
+    <annotation>ニンテンドーDS Lite</annotation>
+  </ca>
+
+  <ca>
+    <word>DS-Lite</word>
+    <annotation>Dual-Stack Lite (RFC 6333)</annotation>
+    <!-- https://datatracker.ietf.org/doc/html/rfc6333#section-3 -->
+  </ca>
+
+  <ca>
     <word>ECMAScript</word>
   </ca>
 
@@ -72,7 +108,13 @@
   </ca>
 
   <ca>
+    <word>eXist</word>
+    <annotation>eXist-db</annotation>
+  </ca>
+
+  <ca>
     <word>eXist-db</word>
+    <!-- http://exist-db.org/ -->
   </ca>
 
   <ca>
@@ -101,7 +143,37 @@
   </ca>
 
   <ca>
+    <word>Hot Soup Processor</word>
+  </ca>
+
+  <ca>
+    <word>iMac</word>
+  </ca>
+
+  <ca>
     <word>InDesign</word>
+  </ca>
+
+  <ca>
+    <word>iOS</word>
+  </ca>
+
+  <ca>
+    <word>iPAD</word>
+    <annotation>富士通</annotation>
+  </ca>
+
+  <ca>
+    <word>iPad</word>
+    <annotation>アップル</annotation>
+  </ca>
+
+  <ca>
+    <word>iPhone</word>
+  </ca>
+
+  <ca>
+    <word>iPod</word>
   </ca>
 
   <ca>
@@ -133,7 +205,36 @@
   </ca>
 
   <ca>
+    <word>MacBook</word>
+  </ca>
+
+  <ca>
+    <word>MacBook Air</word>
+  </ca>
+
+  <ca>
+    <word>MacBook Pro</word>
+  </ca>
+
+  <ca>
+    <word>macOS</word>
+    <annotation>2016〜</annotation>
+  </ca>
+
+  <ca>
+    <word>Mac OS</word>
+  </ca>
+
+  <ca>
+    <word>Mac OS X</word>
+  </ca>
+
+  <ca>
     <word>Macromedia</word>
+  </ca>
+
+  <ca>
+    <word>MagSafe</word>
   </ca>
 
   <ca>
@@ -210,11 +311,24 @@
   </ca>
 
   <ca>
+    <word>PyOpenCL</word>
+  </ca>
+
+  <ca>
+    <word>PyOpenGL</word>
+  </ca>
+
+  <ca>
     <word>RESTful</word>
   </ca>
 
   <ca>
     <word>RMarkdown</word>
+  </ca>
+
+  <ca>
+    <word>RoR</aord>
+    <annotation>Ruby on Rails</annotation>
   </ca>
 
   <ca>
@@ -241,6 +355,11 @@
 
   <ca>
     <word>TypeScript</word>
+  </ca>
+
+  <ca>
+    <word>uABS</word>
+    <annotation>ABS, uniform binary variant</annotation>
   </ca>
 
   <ca>
@@ -272,7 +391,19 @@
   </ca>
 
   <ca>
+    <word>Wi-Fi</word>
+  </ca>
+
+  <ca>
+    <word>Wii U</word>
+  </ca>
+
+  <ca>
     <word>XQuery</word>
+  </ca>
+
+  <ca>
+    <word>Zstandard</word>
   </ca>
 
 </jisyo>

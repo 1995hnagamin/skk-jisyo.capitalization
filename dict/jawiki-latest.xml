@@ -448,10 +448,6 @@
   </ca>
 
   <ca>
-    <word>ArabTeX</word>
-  </ca>
-
-  <ca>
     <word>ArcaOS</word>
   </ca>
 
@@ -881,10 +877,6 @@
 
   <ca>
     <word>BgBee</word>
-  </ca>
-
-  <ca>
-    <word>BibTeX</word>
   </ca>
 
   <ca>
@@ -1753,10 +1745,6 @@
 
   <ca>
     <word>CONOMi</word>
-  </ca>
-
-  <ca>
-    <word>ConTeXt</word>
   </ca>
 
   <ca>
@@ -5373,10 +5361,6 @@
   </ca>
 
   <ca>
-    <word>LaTeX</word>
-  </ca>
-
-  <ca>
     <word>LAZYgunsBRISKY</word>
   </ca>
 
@@ -5677,10 +5661,6 @@
   </ca>
 
   <ca>
-    <word>LuaTeX</word>
-  </ca>
-
-  <ca>
     <word>LuckDuck</word>
   </ca>
 
@@ -5770,10 +5750,6 @@
 
   <ca>
     <word>MacTCP</word>
-  </ca>
-
-  <ca>
-    <word>MacTeX</word>
   </ca>
 
   <ca>
@@ -6193,10 +6169,6 @@
   </ca>
 
   <ca>
-    <word>MiKTeX</word>
-  </ca>
-
-  <ca>
     <word>MikuMikuDance</word>
   </ca>
 
@@ -6539,10 +6511,6 @@
 
   <ca>
     <word>musiQ</word>
-  </ca>
-
-  <ca>
-    <word>MusiXTeX</word>
   </ca>
 
   <ca>
@@ -7833,10 +7801,6 @@
 
   <ca>
     <word>PDFCreator</word>
-  </ca>
-
-  <ca>
-    <word>PdfTeX</word>
   </ca>
 
   <ca>
@@ -10167,10 +10131,6 @@
   </ca>
 
   <ca>
-    <word>TeX</word>
-  </ca>
-
-  <ca>
     <word>TeXPoint</word>
   </ca>
 
@@ -11551,10 +11511,6 @@
   </ca>
 
   <ca>
-    <word>XeTeX</word>
-  </ca>
-
-  <ca>
     <word>XForms</word>
   </ca>
 
@@ -11680,10 +11636,6 @@
 
   <ca>
     <word>XXXHOLiC</word>
-  </ca>
-
-  <ca>
-    <word>XyMTeX</word>
   </ca>
 
   <ca>

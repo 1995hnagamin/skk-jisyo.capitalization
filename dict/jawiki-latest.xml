@@ -2612,7 +2612,7 @@
   </ca>
 
   <ca>
-    <word>EMedicine</word>
+    <word>eMedicine</word>
   </ca>
 
   <ca>
@@ -5320,7 +5320,8 @@
   </ca>
 
   <ca>
-    <word>KZm</word>
+    <word>kZm</word>
+    <annotation>ラッパー</annotation>
   </ca>
 
   <ca>
@@ -6268,7 +6269,8 @@
   </ca>
 
   <ca>
-    <word>MiRNA</word>
+    <word>miRNA</word>
+    <annotation>microRNA</annotation>
   </ca>
 
   <ca>
@@ -6992,7 +6994,9 @@
   </ca>
 
   <ca>
-    <word>NLab</word>
+    <word>nLab</word>
+    <annotation>ncatlab.org</annotation>
+    <!-- https://ncatlab.org/nlab/show/HomePage -->
   </ca>
 
   <ca>
@@ -8432,7 +8436,8 @@
   </ca>
 
   <ca>
-    <word>QBittorrent</word>
+    <word>qBittorrent</word>
+    <!-- https://www.qbittorrent.org/ -->
   </ca>
 
   <ca>
@@ -9108,7 +9113,8 @@
   </ca>
 
   <ca>
-    <word>SaRNA</word>
+    <word>saRNA</word>
+    <annotation>small activating RNA</annotation>
   </ca>
 
   <ca>
@@ -9508,7 +9514,8 @@
   </ca>
 
   <ca>
-    <word>SolidDB</word>
+    <word>solidDB</word>
+    <!-- http://www.soliddb.com/ -->
   </ca>
 
   <ca>

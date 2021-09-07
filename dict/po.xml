@@ -13,8 +13,17 @@
   </ca>
 
   <ca>
+    <word>ABEMA</word>
+  </ca>
+
+  <ca>
     <word>AbemaNews</word>
     <!-- http://abemanews.co.jp/ -->
+  </ca>
+
+  <ca>
+    <word>AbemaTV</word>
+    <!-- https://www.cyberagent.co.jp/corporate/overview/abematv/ -->
   </ca>
 
   <ca>

@@ -8,7 +8,13 @@
 
   <ca>
     <word>GenBank</word>
+    <annotation>塩基配列データベース</annotation>
     <!-- https://www.ncbi.nlm.nih.gov/genbank/ -->
+  </ca>
+
+  <ca>
+    <word>Swiss-Prot</word>
+    <!-- https://www.expasy.org/resources/uniprotkb-swiss-prot -->
   </ca>
 
 </jisyo>

@@ -82,6 +82,11 @@
   </ca>
 
   <ca>
+    <word>DoS</word>
+    <annotation>denial of service</annotation>
+  </ca>
+
+  <ca>
     <word>Dreamweaver</word>
   </ca>
 
@@ -332,6 +337,11 @@
 
   <ca>
     <word>PyOpenGL</word>
+  </ca>
+
+  <ca>
+    <word>ReDoS</word>
+    <annotation>regular expression denial of service</annotation>
   </ca>
 
   <ca>

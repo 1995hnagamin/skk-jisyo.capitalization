@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='EUC-JP'?>
+<jisyo>
+
+  <ca>
+    <word>ActA</word>
+    <annotation>Actin assembly-inducing protein</annotation>
+  </ca>
+
+  <ca>
+    <word>GenBank</word>
+    <!-- https://www.ncbi.nlm.nih.gov/genbank/ -->
+  </ca>
+
+</jisyo>
+

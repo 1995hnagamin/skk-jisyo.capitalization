@@ -8,6 +8,35 @@
   </ca>
 
   <ca>
+    <word>AbeBooks</word>
+    <!-- https://www.abebooks.com/ -->
+  </ca>
+
+  <ca>
+    <word>AbemaNews</word>
+    <!-- http://abemanews.co.jp/ -->
+  </ca>
+
+  <ca>
+    <word>AccessTV</word>
+  </ca>
+
+  <ca>
+    <word>AccuWeather</word>
+    <!-- https://www.accuweather.com/ -->
+  </ca>
+
+  <ca>
+    <word>AcFun</word>
+    <!-- https://www.acfun.cn/ -->
+  </ca>
+
+  <ca>
+    <word>AcroBats</word>
+    <!-- https://acrobats.co.jp/ -->
+  </ca>
+
+  <ca>
     <word>ACSiON</word>
     <annotation>[´ë¶ÈÌ¾]</annotation>
   </ca>

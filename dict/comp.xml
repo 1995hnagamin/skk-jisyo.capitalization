@@ -70,6 +70,27 @@
   </ca>
 
   <ca>
+    <word>DSi</word>
+    <annotation>ニンテンドーDSi</annotation>
+  </ca>
+
+  <ca>
+    <word>DSi LL</word>
+    <annotation>ニンテンドーDSi LL</annotation>
+  </ca>
+
+  <ca>
+    <word>DS Lite</word>
+    <annotation>ニンテンドーDS Lite</annotation>
+  </ca>
+
+  <ca>
+    <word>DS-Lite</word>
+    <annotation>Dual-Stack Lite (RFC 6333)</annotation>
+    <!-- https://datatracker.ietf.org/doc/html/rfc6333#section-3 -->
+  </ca>
+
+  <ca>
     <word>ECMAScript</word>
   </ca>
 
@@ -119,6 +140,10 @@
 
   <ca>
     <word>HomePod</word>
+  </ca>
+
+  <ca>
+    <word>Hot Soup Processor</word>
   </ca>
 
   <ca>
@@ -286,6 +311,14 @@
   </ca>
 
   <ca>
+    <word>PyOpenCL</word>
+  </ca>
+
+  <ca>
+    <word>PyOpenGL</word>
+  </ca>
+
+  <ca>
     <word>RESTful</word>
   </ca>
 
@@ -325,6 +358,11 @@
   </ca>
 
   <ca>
+    <word>uABS</word>
+    <annotation>ABS, uniform binary variant</annotation>
+  </ca>
+
+  <ca>
     <word>Underscore.js</word>
   </ca>
 
@@ -353,7 +391,19 @@
   </ca>
 
   <ca>
+    <word>Wi-Fi</word>
+  </ca>
+
+  <ca>
+    <word>Wii U</word>
+  </ca>
+
+  <ca>
     <word>XQuery</word>
+  </ca>
+
+  <ca>
+    <word>Zstandard</word>
   </ca>
 
 </jisyo>

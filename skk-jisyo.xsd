@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="EUC-JP"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:simpleType name="safeString">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[^;/]*"/>
+    </xs:restriction>
+  </xs:simpleType>
+
   <xs:element name="yomi" type="xs:string"/>
-  <xs:element name="word" type="xs:string"/>
-  <xs:element name="annotation" type="xs:string"/>
+  <xs:element name="word" type="safeString"/>
+  <xs:element name="annotation" type="safeString"/>
 
   <xs:element name="ca">
     <xs:complexType>

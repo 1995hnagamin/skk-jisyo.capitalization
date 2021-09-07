@@ -2,6 +2,7 @@
 # frozen_string_literal: true
 
 require 'nokogiri'
+require './libjisyo'
 
 outfile = File.open('dict.txt', 'w', encoding: 'EUC-JP')
 
@@ -11,10 +12,9 @@ sources.each do |filename|
   doc = Nokogiri::XML(File.open(filename, 'r', encoding: 'EUC-JP'))
 
   doc.xpath('/jisyo/ca').each do |ca|
-    word = ca.at('word').text
-    yomi = ca.at('yomi')&.text || word.downcase.gsub(/[^a-z]/, '')
+    word, yomi = get_word_yomi(ca)
+    annotation = get_annotation(ca)
 
-    annotation = ca.at('annotation')&.text
     annot = annotation ? ";#{annotation}" : ''
     outfile.puts "#{yomi} /#{word}#{annot}/"
   end

@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'nokogiri'
+require './libjisyo'
 
 def put_errors(diag_tuple)
   errors, ok_msg = diag_tuple
@@ -31,8 +32,7 @@ def check_word_worder(doc)
 
   cur_yomi = ''
   doc.xpath('/jisyo/ca').each do |ca|
-    word = ca.at('word').text
-    yomi = ca.at('yomi')&.text || word.downcase.gsub(/[^a-z]/, '')
+    _, yomi = get_word_yomi(ca)
     errors << "error: got '#{yomi}' after '#{cur_yomi}'" if yomi < cur_yomi
     cur_yomi = yomi
   end

@@ -66,6 +66,11 @@
   </ca>
 
   <ca>
+    <word>ccTLD</word>
+    <annotation>country code top-level domain</annotation>
+  </ca>
+
+  <ca>
     <word>ColdFusion</word>
   </ca>
 
@@ -151,7 +156,16 @@
   </ca>
 
   <ca>
+    <word>glvalue</word>
+  </ca>
+
+  <ca>
     <word>GoLive</word>
+  </ca>
+
+  <ca>
+    <word>gTLD</word>
+    <annotation>generic top-level domain</annotation>
   </ca>
 
   <ca>
@@ -173,6 +187,11 @@
 
   <ca>
     <word>InDesign</word>
+  </ca>
+
+  <ca>
+    <word>inotify</word>
+    <!-- https://www.kernel.org/doc/Documentation/filesystems/inotify.txt -->
   </ca>
 
   <ca>
@@ -222,7 +241,16 @@
   </ca>
 
   <ca>
+    <word>Jw_cad</word>
+    <!-- http://www.jwcad.net/ -->
+  </ca>
+
+  <ca>
     <word>LiveCycle</word>
+  </ca>
+
+  <ca>
+    <word>lvalue</word>
   </ca>
 
   <ca>
@@ -328,6 +356,10 @@
   </ca>
 
   <ca>
+    <word>prvalue</word>
+  </ca>
+
+  <ca>
     <word>Pyjs</word>
   </ca>
 
@@ -363,6 +395,10 @@
   </ca>
 
   <ca>
+    <word>rvalue</word>
+  </ca>
+
+  <ca>
     <word>Sails.js</word>
   </ca>
 
@@ -372,7 +408,23 @@
   </ca>
 
   <ca>
+    <word>Shift_JIS</word>
+    <!-- https://www.iana.org/assignments/character-sets/character-sets.xhtml -->
+  </ca>
+
+  <ca>
     <word>Socket.IO</word>
+  </ca>
+
+  <ca>
+    <word>sTLD</word>
+    <annotation>sponsored top-level domain</annotation>
+  </ca>
+
+  <ca>
+    <word>TLA+</word>
+    <annotation>形式仕様記述言語</annotation>
+    <!-- http://lamport.azurewebsites.net/tla/tla.html -->
   </ca>
 
   <ca>
@@ -425,7 +477,23 @@
   </ca>
 
   <ca>
+    <word>XML Schema</word>
+    <annotation>W3C XML Schema Definition</annotation>
+    <!-- https://www.w3.org/TR/xmlschema-1/ -->
+  </ca>
+
+  <ca>
+    <word>XPath</word>
+    <annotation>XML Path Language</annotation>
+    <!-- www.w3.org/TR/xpath10 -->
+  </ca>
+
+  <ca>
     <word>XQuery</word>
+  </ca>
+
+  <ca>
+    <word>xvalue</word>
   </ca>
 
   <ca>

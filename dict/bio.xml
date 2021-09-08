@@ -7,14 +7,65 @@
   </ca>
 
   <ca>
+    <word>BMRB</word>
+    <annotation>Biological Magnetic Resonance Data Bank</annotation>
+    <!-- https://bmrb.io/ -->
+  </ca>
+
+  <ca>
+    <word>EMDB</word>
+    <annotation>Electron Microscopy Data Bank</annotation>
+  </ca>
+
+  <ca>
     <word>GenBank</word>
     <annotation>塩基配列データベース</annotation>
     <!-- https://www.ncbi.nlm.nih.gov/genbank/ -->
   </ca>
 
   <ca>
+    <word>mmCIF</word>
+    <annotation>macromolecular CIF</annotation>
+    <!-- https://mmcif.wwpdb.org/ -->
+  </ca>
+
+  <ca>
+    <word>mmJSON</word>
+    <!-- https://pdbj.org/help/mmjson -->
+  </ca>
+
+  <ca>
+    <word>PDBe</word>
+    <annotation>Protein Data Bank in Europe</annotation>
+    <!-- https://www.ebi.ac.uk/pdbe/ -->
+  </ca>
+
+  <ca>
+    <word>PDBj</word>
+    <annotation>Protein Data Bank Japan</annotation>
+    <!-- https://pdbj.org/ -->
+  </ca>
+
+  <ca>
+    <word>PDBML</word>
+    <annotation>XML for PDB</annotation>
+    <!-- https://pubmed.ncbi.nlm.nih.gov/15509603/ -->
+  </ca>
+
+  <ca>
+    <word>RCSB PDB</word>
+    <annotation>蛋白質構造データバンク</annotation>
+    <!-- https://www.rcsb.org/ -->
+  </ca>
+
+  <ca>
     <word>Swiss-Prot</word>
     <!-- https://www.expasy.org/resources/uniprotkb-swiss-prot -->
+  </ca>
+
+  <ca>
+    <word>wwPDB</word>
+    <annotation>Worldwide Protein Data Bank</annotation>
   </ca>
 
 </jisyo>

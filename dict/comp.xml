@@ -266,6 +266,16 @@
   </ca>
 
   <ca>
+    <word>MAC</word>
+    <annotation>Media Access Control</annotation>
+  </ca>
+
+  <ca>
+    <word>Mac</word>
+    <annotation>Macintosh</annotation>
+  </ca>
+
+  <ca>
     <word>MacBook</word>
   </ca>
 

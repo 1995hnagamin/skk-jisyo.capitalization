@@ -8,6 +8,44 @@
   </ca>
 
   <ca>
+    <word>AbeBooks</word>
+    <!-- https://www.abebooks.com/ -->
+  </ca>
+
+  <ca>
+    <word>ABEMA</word>
+  </ca>
+
+  <ca>
+    <word>AbemaNews</word>
+    <!-- http://abemanews.co.jp/ -->
+  </ca>
+
+  <ca>
+    <word>AbemaTV</word>
+    <!-- https://www.cyberagent.co.jp/corporate/overview/abematv/ -->
+  </ca>
+
+  <ca>
+    <word>AccessTV</word>
+  </ca>
+
+  <ca>
+    <word>AccuWeather</word>
+    <!-- https://www.accuweather.com/ -->
+  </ca>
+
+  <ca>
+    <word>AcFun</word>
+    <!-- https://www.acfun.cn/ -->
+  </ca>
+
+  <ca>
+    <word>AcroBats</word>
+    <!-- https://acrobats.co.jp/ -->
+  </ca>
+
+  <ca>
     <word>ACSiON</word>
     <annotation>[企業名]</annotation>
   </ca>
@@ -42,6 +80,10 @@
     <word>DUSTCELL</word>
     <annotation>音楽グループ</annotation>
     <!-- https://kamitsubaki.jp/artist/dustcell/ -->
+  </ca>
+
+  <ca>
+    <word>e-amusement</word>
   </ca>
 
   <ca>
@@ -117,6 +159,11 @@
 
   <ca>
     <word>MySpaceTV</word>
+  </ca>
+
+  <ca>
+    <word>NeXT</word>
+    <annotation>NeXT Software, Inc. [企業名]</annotation>
   </ca>
 
   <ca>

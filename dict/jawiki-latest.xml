@@ -12,78 +12,6 @@
   -->
 
   <ca>
-    <word>AbeBooks</word>
-  </ca>
-
-  <ca>
-    <word>AbemaMix</word>
-  </ca>
-
-  <ca>
-    <word>AbemaNews</word>
-  </ca>
-
-  <ca>
-    <word>AbiWord</word>
-  </ca>
-
-  <ca>
-    <word>AccessTV</word>
-  </ca>
-
-  <ca>
-    <word>AccuRev</word>
-  </ca>
-
-  <ca>
-    <word>AccuWeather</word>
-  </ca>
-
-  <ca>
-    <word>ACDSee</word>
-  </ca>
-
-  <ca>
-    <word>AcFun</word>
-  </ca>
-
-  <ca>
-    <word>AcroBats</word>
-  </ca>
-
-  <ca>
-    <word>ActA</word>
-  </ca>
-
-  <ca>
-    <word>ActionScript</word>
-  </ca>
-
-  <ca>
-    <word>ActiveBasic</word>
-  </ca>
-
-  <ca>
-    <word>ActivePerl</word>
-  </ca>
-
-  <ca>
-    <word>ActiveX</word>
-  </ca>
-
-  <ca>
-    <word>ActivityPub</word>
-  </ca>
-
-  <ca>
-    <word>AdaBoost</word>
-  </ca>
-
-  <ca>
-    <word>AdBlue</word>
-  </ca>
-
-  <ca>
     <word>aDesigner</word>
   </ca>
 
@@ -497,10 +425,6 @@
 
   <ca>
     <word>AquesTalk</word>
-  </ca>
-
-  <ca>
-    <word>ArabTeX</word>
   </ca>
 
   <ca>
@@ -933,10 +857,6 @@
 
   <ca>
     <word>BgBee</word>
-  </ca>
-
-  <ca>
-    <word>BibTeX</word>
   </ca>
 
   <ca>
@@ -1808,10 +1728,6 @@
   </ca>
 
   <ca>
-    <word>ConTeXt</word>
-  </ca>
-
-  <ca>
     <word>CoolNovo</word>
   </ca>
 
@@ -2664,7 +2580,7 @@
   </ca>
 
   <ca>
-    <word>EMedicine</word>
+    <word>eMedicine</word>
   </ca>
 
   <ca>
@@ -3449,10 +3365,6 @@
 
   <ca>
     <word>GemeWith</word>
-  </ca>
-
-  <ca>
-    <word>GenBank</word>
   </ca>
 
   <ca>
@@ -5376,7 +5288,8 @@
   </ca>
 
   <ca>
-    <word>KZm</word>
+    <word>kZm</word>
+    <annotation>ラッパー</annotation>
   </ca>
 
   <ca>
@@ -5425,10 +5338,6 @@
 
   <ca>
     <word>LastPass</word>
-  </ca>
-
-  <ca>
-    <word>LaTeX</word>
   </ca>
 
   <ca>
@@ -5732,10 +5641,6 @@
   </ca>
 
   <ca>
-    <word>LuaTeX</word>
-  </ca>
-
-  <ca>
     <word>LuckDuck</word>
   </ca>
 
@@ -5825,10 +5730,6 @@
 
   <ca>
     <word>MacTCP</word>
-  </ca>
-
-  <ca>
-    <word>MacTeX</word>
   </ca>
 
   <ca>
@@ -6248,10 +6149,6 @@
   </ca>
 
   <ca>
-    <word>MiKTeX</word>
-  </ca>
-
-  <ca>
     <word>MikuMikuDance</word>
   </ca>
 
@@ -6324,7 +6221,8 @@
   </ca>
 
   <ca>
-    <word>MiRNA</word>
+    <word>miRNA</word>
+    <annotation>microRNA</annotation>
   </ca>
 
   <ca>
@@ -6593,10 +6491,6 @@
 
   <ca>
     <word>musiQ</word>
-  </ca>
-
-  <ca>
-    <word>MusiXTeX</word>
   </ca>
 
   <ca>
@@ -6964,14 +6858,6 @@
   </ca>
 
   <ca>
-    <word>NeXT</word>
-  </ca>
-
-  <ca>
-    <word>NexT</word>
-  </ca>
-
-  <ca>
     <word>NexTag</word>
   </ca>
 
@@ -7048,7 +6934,9 @@
   </ca>
 
   <ca>
-    <word>NLab</word>
+    <word>nLab</word>
+    <annotation>ncatlab.org</annotation>
+    <!-- https://ncatlab.org/nlab/show/HomePage -->
   </ca>
 
   <ca>
@@ -7888,10 +7776,6 @@
   </ca>
 
   <ca>
-    <word>PdfTeX</word>
-  </ca>
-
-  <ca>
     <word>PDFtk</word>
   </ca>
 
@@ -8488,7 +8372,8 @@
   </ca>
 
   <ca>
-    <word>QBittorrent</word>
+    <word>qBittorrent</word>
+    <!-- https://www.qbittorrent.org/ -->
   </ca>
 
   <ca>
@@ -9164,7 +9049,8 @@
   </ca>
 
   <ca>
-    <word>SaRNA</word>
+    <word>saRNA</word>
+    <annotation>small activating RNA</annotation>
   </ca>
 
   <ca>
@@ -9564,7 +9450,8 @@
   </ca>
 
   <ca>
-    <word>SolidDB</word>
+    <word>solidDB</word>
+    <!-- http://www.soliddb.com/ -->
   </ca>
 
   <ca>
@@ -10213,10 +10100,6 @@
 
   <ca>
     <word>teTeX</word>
-  </ca>
-
-  <ca>
-    <word>TeX</word>
   </ca>
 
   <ca>
@@ -11600,10 +11483,6 @@
   </ca>
 
   <ca>
-    <word>XeTeX</word>
-  </ca>
-
-  <ca>
     <word>XForms</word>
   </ca>
 
@@ -11729,10 +11608,6 @@
 
   <ca>
     <word>XXXHOLiC</word>
-  </ca>
-
-  <ca>
-    <word>XyMTeX</word>
   </ca>
 
   <ca>

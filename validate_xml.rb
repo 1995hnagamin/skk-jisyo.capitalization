@@ -1,14 +1,30 @@
 # frozen_string_literal: true
 
+require 'optparse'
 require 'nokogiri'
 require './libjisyo'
 
-def put_errors(diag_tuple)
+def calc_mode(mode)
+  hash = {
+    'verbose' => [true, true],
+    'silent' => [false, false],
+    'compact' => [true, false]
+  }
+  hash[mode]
+end
+
+def put_errors(diag_tuple, filename, mode)
   errors, ok_msg = diag_tuple
-  errors.each do |e|
-    puts e
+
+  showerr, showok = calc_mode(mode)
+
+  if showerr
+    errors.each do |e|
+      puts "#{filename}: #{e}"
+    end
   end
-  puts ok_msg if errors.empty?
+  puts ok_msg if errors.empty? && showok
+
   errors.empty?
 end
 
@@ -40,11 +56,25 @@ def check_word_worder(doc)
   [errors, 'sorted: OK']
 end
 
+# command line options
+
+opt = OptionParser.new
+opt.on('--mode [VALUE]') { |v| v }
+
+params = {
+  mode: 'verbose'
+}
+opt.parse!(ARGV, into: params)
+
+# body
+
 sources = Dir['dict/*.xml']
 
 results = sources.map do |filename|
-  puts
-  puts filename
+  if params[:mode] == 'verbose'
+    puts
+    puts filename
+  end
 
   doc = Nokogiri::XML(File.open(filename, 'r', encoding: 'EUC-JP'))
 
@@ -52,7 +82,7 @@ results = sources.map do |filename|
     xsd.validate(doc),
     check_word_worder(doc)
   ]
-  check_items.map { |t| put_errors(t) }.all?
+  check_items.map { |t| put_errors(t, filename, params[:mode]) }.all?
 end
 
 exit(results.all?)

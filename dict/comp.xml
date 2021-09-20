@@ -83,6 +83,10 @@
   </ca>
 
   <ca>
+    <word>ChaSen</word>
+  </ca>
+
+  <ca>
     <word>ColdFusion</word>
   </ca>
 
@@ -253,8 +257,37 @@
   </ca>
 
   <ca>
+    <word>JUMAN</word>
+    <annotation>日本語形態素解析システム</annotation>
+    <!-- https://nlp.ist.i.kyoto-u.ac.jp/?JUMAN -->
+  </ca>
+
+  <ca>
+    <word>Juman++</word>
+    <annotation>日本語形態素解析システム (2016〜)</annotation>
+    <!-- https://github.com/ku-nlp/jumanpp -->
+  </ca>
+
+  <ca>
+    <word>JUMAN++</word>
+    <annotation>日本語形態素解析システム (2016〜)</annotation>
+    <!-- https://nlp.ist.i.kyoto-u.ac.jp/?JUMAN%2B%2B -->
+  </ca>
+
+  <!--
+    Juman++とJUMAN++に明確な使い分けを確認することはできなかった．
+    たぶんどちらも正しいのだろう．
+  -->
+
+  <ca>
     <word>Jw_cad</word>
     <!-- http://www.jwcad.net/ -->
+  </ca>
+
+  <ca>
+    <word>KyTea</word>
+    <annotation>京都テキスト解析ツールキット</annotation>
+    <!-- http://www.phontron.com/kytea/index-ja.html -->
   </ca>
 
   <ca>
@@ -444,6 +477,10 @@
   </ca>
 
   <ca>
+    <word>Sudachi</word>
+  </ca>
+
+  <ca>
     <word>TLA+</word>
     <annotation>形式仕様記述言語</annotation>
     <!-- http://lamport.azurewebsites.net/tla/tla.html -->
@@ -464,6 +501,12 @@
 
   <ca>
     <word>Underscore.js</word>
+  </ca>
+
+  <ca>
+    <word>UniDic</word>
+    <annotation>形態素解祈用電子化辞書</annotation>
+    <!-- https://ccd.ninjal.ac.jp/unidic/ -->
   </ca>
 
   <ca>

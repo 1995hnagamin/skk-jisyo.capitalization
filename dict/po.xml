@@ -110,6 +110,11 @@
   </ca>
 
   <ca>
+    <word>HackMD</word>
+    <!-- https://hackmd.io/ -->
+  </ca>
+
+  <ca>
     <word>hololive</word>
     <!-- https://www.hololive.tv/ -->
   </ca>
@@ -159,6 +164,14 @@
 
   <ca>
     <word>MySpaceTV</word>
+  </ca>
+
+  <ca>
+    <word>NESiCA</word>
+  </ca>
+
+  <ca>
+    <word>NESiCAxLive</word>
   </ca>
 
   <ca>
